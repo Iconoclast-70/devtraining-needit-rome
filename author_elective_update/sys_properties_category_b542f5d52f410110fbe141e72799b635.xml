@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name> NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 18:20:20</sys_created_on>
+        <sys_id>b542f5d52f410110fbe141e72799b635</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name> NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_b542f5d52f410110fbe141e72799b635</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 21:52:30</sys_updated_on>
+        <title><![CDATA[<p><span style="font-family: terminal, monaco; font-size: 10pt; color: #000000; background-color: #ffffff;">Properties</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=b542f5d52f410110fbe141e72799b635"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d01780eadb38d490e03ad7c8f49619e1</instance_id>
+        <instance_name>dev104121</instance_name>
+        <name>sys_properties_category_b542f5d52f410110fbe141e72799b635</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt; NeedIt Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-01-13 18:20:20&lt;/sys_created_on&gt;&lt;sys_id&gt;b542f5d52f410110fbe141e72799b635&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt; NeedIt Properties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_b542f5d52f410110fbe141e72799b635&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-01-13 21:52:30&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;&lt;span style="font-family: terminal, monaco; font-size: 10pt; color: #000000; background-color: #ffffff;"&gt;Properties&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b542f5d52f410110fbe141e72799b635"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>67460456</payload_hash>
+        <record_name> NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>ff9d2b282f810110fbe141e72799b679</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 21:52:30</sys_created_on>
+        <sys_id>26736ad52fc10110fbe141e72799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e556d90280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 21:52:30</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>2e736ad597c101106a602ecbec27595e</update_guid>
+        <update_guid_history>2e736ad597c101106a602ecbec27595e:67460456,76416a5956c10110a48dcf0414944f62:443425660,eae2b1d5824101104ab33a71da29f6dc:1850684982</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-13 22:00:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>487ba42b7f224f409626adbc7d796279</sys_id>
+        <sys_metadata>b542f5d52f410110fbe141e72799b635</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_b542f5d52f410110fbe141e72799b635</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_b542f5d52f410110fbe141e72799b635">26736ad52fc10110fbe141e72799b65f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-13 22:00:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
